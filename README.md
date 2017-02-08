@@ -1,0 +1,5 @@
+Quoridor
+########
+
+
+Manage skeletons
